@@ -1,2 +1,2 @@
 # BootStrap_Resume
-Create a bootstrap resume 
+Given a template create a bootstrap resume.
